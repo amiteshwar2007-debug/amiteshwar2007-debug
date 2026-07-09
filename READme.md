@@ -6,9 +6,8 @@
 --->
 
 <h3 align="center">
-	<a href="https://md-shadab-azam-ansari.vercel.app/">Hi, I'm Shadab Azam Ansari!</a>
+	<a href="https://md-shadab-azam-ansari.vercel.app/">Hi, I'm Amiteshwar Singh Sidhu!</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3> <a href="https://github.com/sazamansari/sazamansari/"> </a>
 <br/>
 
 <p align="center">
@@ -19,7 +18,7 @@
 <!-- <h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m Shadab azam ansari</h1> -->
 <h3>I'm a Software Engineer.</h3>
 
-* 🎓 B.Tech in Computer Science, Galgotias University (2018–2022)
+* 🎓 B.Tech in Computer Science, Chitkara University (2025-2029)
 * 👀 Passionate about open source and programming (Node.JS, Python, JavaScript)
 * 💬 DevOps toolkit: Docker · Kubernetes · Jenkins · GitHub Actions · Terraform · Ansible · AWS (EC2, S3, Lambda) · Prometheus · Grafana
 * 💞️ Seeking collaboration on open-source projects
