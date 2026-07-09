@@ -17,18 +17,6 @@
 
 <hr/>
 
-<h2 align="center">📫 How to reach me</h2>
-
-<p align="center">
-  <a href="mailto:ansarimomshadabazam@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sazamansari/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<hr/>
 
 <h2 align="center">🥞 Tech Stack</h2>
 
